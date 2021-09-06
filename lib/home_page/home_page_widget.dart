@@ -403,6 +403,7 @@ class _HomePageWidgetState extends State<HomePageWidget>
                                               Duration(milliseconds: 300),
                                           child: WebViewPageWidget(
                                             url: '',
+                                            title: 'Threat Watch',
                                           ),
                                         ),
                                       );
